@@ -1,4 +1,9 @@
-# md4-big-data-final
+# Projet Académique
+
+## Equipe
+Ce projet a été réalisé avec Matthias, Rodolphe, Palita, François et Cassandra.
+
+## Consignes
 
 URL data :  
   - prix:
